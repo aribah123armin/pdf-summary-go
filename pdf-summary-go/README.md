@@ -1,13 +1,13 @@
 # pdf-summary — PDF to Text Summary Generator (Go)
 
-A command-line tool written in Go that extracts text from PDF files and generates AI-powered summaries using the Anthropic Claude API.
+A command-line tool written in Go that extracts text from PDF files and generates AI-powered summaries.
 
 ---
 
 ## Features
 
 - 📄 **Text extraction** from PDF files (text-based PDFs)
-- 🤖 **AI summarization** via Claude (Sonnet 4)
+- 🤖 **AI summarization** generates short summary
 - 🎨 **Three summary styles**: paragraph, bullet points, detailed
 - 📏 **Three summary lengths**: short, medium, long
 - 💾 **Save output** to a text file
